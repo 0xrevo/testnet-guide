@@ -1,5 +1,5 @@
 # TESTNET LOYAL
-Requierement SPEC
+Requierement VPS
 4x CPU
 RAM 8 GB
 STORAGE 200GB (SSD atau NVME)
